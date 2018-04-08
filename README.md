@@ -4,7 +4,9 @@ This repository contains the projects completed and reviewed during the Udacity 
 
 ## Projects
 
-### Wrangle OpenStreetMap Data
+###  I) Intro to Data Analysis: Investigate a Dataset 
+
+### II) Data Wrangling: Wrangle OpenStreetMap Data
 
 In this project, I wrangled a large XML Open Street Map database (OSM). Due to the human entered data of the source, I employed data munging techniques to ensure the quality of it. I wrote python routines to check the validity, consistency and uniformity of some target fields. After cleaning, the OSM was transformed into a database that was queried (SQL) to get information about its content.
 
